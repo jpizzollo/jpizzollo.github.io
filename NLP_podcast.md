@@ -2,7 +2,6 @@
 <br>
 
 ### Introduction  
-#### <a href="https://github.com/jpizzollo/" target="_blank">Test link to GitHub</a>
 
 Podcasts are an incredibly rich source of information. With millions of different shows and countless hours of content, the abundance of information in this format is staggering. However, extracting and searching for information within audio is inefficient and relies on the level of annotation from the producer. With the addition of audio transcription, podcasts get a lot more accessible in terms of search and large-scale analysis of content. Here, I use natural language processing (NLP) and topic modeling of podcast audio transcripts to characterize a set of podcast episodes and identify changes in topics throughout episodes.
 
@@ -24,21 +23,19 @@ The YouTube transcripts for these shows were time-stamped, which allowed me to d
 
 Determining an optimal number of topics for the model is somewhat subjective and context dependent. For this analysis I wanted to be able to distinguish between somewhat similar topics, such as nutrition and heat & hydration (similar because both these might include words like water, sodium, or intake…), and at the same time avoid generating too many separate, and highly specific, topics (for example, separate topics for on-the-bike nutrition versus off-the-bike nutrition). Through some trial and error, optimizing the number of topics and max document frequency, and aggressive preprocessing/ filtering for only nouns, adjectives, and lemmatization, I was able to generate 16 topics that are informative about the general topic of conversation, but not overly specific. Here is an example of some of these topics and top words associated with each.
 
-<img src="images/NLP_podcast/Topics.png?raw=true"/>
-
 <a href="images/NLP_podcast/Topics.png" target="_blank"><img src="images/NLP_podcast/Topics.png"></a>
 
 #### Topic frequency changes between episodes
 
 To compare how topics change between episodes, I looked at the average frequency across documents within each episode. Most episodes are a mix of topics, and there are many that are frequently discussed on the show. Talk about training plans, workout structure, and MTB racing is very common and occurs in nearly every episode. However, specific topics stand out in some cases. In two episodes featuring a guest from Precision Hydration® who specializes in athlete hydration, nearly the entire episode is devoted to that topic. While it’s not a far stretch to guess that those episodes would be focused on the heat & hydration topic, it’s a good validation that the model is picking up on the signal. What isn’t as obvious without this type of analysis though, is that by plotting topic frequency through time we can see some interesting trends. In the case of road racing, there is some periodicity to how much this topic is discussed. The road race season begins in early spring, and we can see an increase in how much in road race topics around the same time each year. For this podcast, many episodes feature discussion of current experiences of the hosts (i.e., talk about recent and upcoming races/ events), which carry from week-to-week. So, for a listener who plans to listen to several episodes and is looking for discussion around a particular topic, a time-series view like this can help identify periods of time when shows are focused around a specific topic or series of events.
 
-<img src="images/NLP_podcast/Periodic.png?raw=true"/>
+<a href="images/NLP_podcast/Periodic.png" target="_blank"><img src="images/NLP_podcast/Periodic.png"></a>
 
 #### Topic modeling identifies changes in topic throughout the course of an episode
 
 Some of the episodes include chapter annotations on YouTube that summarize discussion at specific time points. To look at how my topic model compares to these annotations, I looked at modeled topic distributions within 5-minute documents through the course of two episodes. Of course, the actual podcast discussion doesn’t change on 5-minute intervals, nonetheless, we can still see correlation between annotations and topic distributions. In episode 281 for example, the annotation about fixing low back pain coincides with high representation of the physiology topic. We also see strength and riding – technical topics come up, which makes sense that these topics are related to fixing low back pain. While these topic labels are far from perfect, they give a good representation of topic continuity through time, and how any discussion is always a mix of multiple topics.
 
-<img src="images/NLP_podcast/Episodes.png?raw=true"/>
+<a href="images/NLP_podcast/Episodes.png" target="_blank"><img src="images/NLP_podcast/Episodes.png"></a>
 
 #### Comparing topics between athlete interview episodes highlights common structural elements
 
@@ -46,7 +43,7 @@ While most TrainerRoad episodes are largely Q&A format, there are some episodes 
 
 Episodes were divided into 5-minute documents, and topic frequency plotted throughout the course of the interview. Although noisy, there are a few common themes that appear. One is that episodes are bookended with informal chat at the beginning and end of the episode, and there is occasional informal chat in the middle of the episode. In both interviews. The first substantial portion is focused on the guest’s specific discipline. In Justin’s case this was road cycling, and in Kate’s case, MTB. Interestingly, immediately after that first discipline-specific discussion, the conversation shifted to strength. It makes sense that this is part of the conversation since it’s an important part of athlete training, but interesting nonetheless that it occurs at the same relative location in both interviews. Also in both interviews there are multiple blocks of time focused on goals and in both cases there is one occurrence in the early/ mid portion of the interview, then a return to the same topic towards the end of the interview. In light of how long-form athlete interviews are conducted, this intuitively makes sense that early discussion is about sport specifics and tends later to talk about the future, goals, and ambitions. While these are only a few cases and may be coincidental (I didn’t run statistics on these data), it does help frame the general trend of an interview and identify how topics change throughout the course of the episode.
 
-<img src="images/NLP_podcast/Interviews.png?raw=true"/>
+<a href="images/NLP_podcast/Interviews.png" target="_blank"><img src="images/NLP_podcast/Interviews.png"></a>
 
 ### Conclusions
 
