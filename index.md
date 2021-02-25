@@ -8,7 +8,7 @@ Used transcripts of podcast episodes, I performed natural language processing an
 
 ---
 
-### Category Name 2
+### Academic Publications
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
