@@ -23,7 +23,7 @@ The YouTube transcripts for these shows were time-stamped, which allowed me to d
 
 Determining an optimal number of topics for the model is somewhat subjective and context dependent. For this analysis I wanted to be able to distinguish between somewhat similar topics, such as nutrition and heat & hydration (similar because both these might include words like water, sodium, or intake…), and at the same time avoid generating too many separate, and highly specific, topics (for example, separate topics for on-the-bike nutrition versus off-the-bike nutrition). Through some trial and error, optimizing the number of topics and max document frequency, and aggressive preprocessing/ filtering for only nouns, adjectives, and lemmatization, I was able to generate 16 topics that are informative about the general topic of conversation, but not overly specific. Here is an example of some of these topics and top words associated with each.
 
-[<img src="images/NLP_podcast/Topics.png?raw=true"/>](images/NLP_podcast/Topics.png)
+[<img src="images/NLP_podcast/Topics.png?raw=true" target="_blank"/>](images/NLP_podcast/Topics.png)
 
 #### Topic frequency changes between episodes
 
