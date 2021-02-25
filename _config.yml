@@ -1,10 +1,12 @@
 title: Jason Pizzollo
 logo: "/images/photo.jpg?raw=true"
 description: >
-  Data Scientist  
+  Data Scientist
+  <br>
   Genomics Ph.D.
-    
-  <a href="https://www.linkedin.com/in/jasonpizzollo/">View My LinkedIn Profile</a>  
+  <br>
+  <a href="https://www.linkedin.com/in/jasonpizzollo/">View My LinkedIn Profile</a>
+  <br>
   <a href="https://github.com/jpizzollo/">View My GitHub Profile</a>
 
 theme: jekyll-theme-minimal
