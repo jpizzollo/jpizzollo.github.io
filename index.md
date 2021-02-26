@@ -20,8 +20,8 @@ Pizzollo J, Nielsen WJ, Shibata Y, Safi A, Crawford GE, Wray GA, Babbitt CC.
 Genome Biol Evol. 2018 Mar 1;10(3):826-839. doi: 10.1093/gbe/evy041.
 <br><br>
 [Structural basis of DNA gyrase inhibition by antibacterial QPT-1, anticancer drug etoposide and moxifloxacin.](https://www.nature.com/articles/ncomms10048)
-Chan PF, Srikannathasan V, Huang J, Cui H, Fosberry AP, Gu M, Hann MM, Hibbs M, Homes P, Ingraham K, Pizzollo J, Shen C, Shillings AJ, Spitzfaden CE, Tanner R, Theobald AJ, Stavenger <br>
-RA, Bax BD, Gwynn MN.
+<br>
+Chan PF, Srikannathasan V, Huang J, Cui H, Fosberry AP, Gu M, Hann MM, Hibbs M, Homes P, Ingraham K, Pizzollo J, Shen C, Shillings AJ, Spitzfaden CE, Tanner R, Theobald AJ, Stavenger RA, Bax BD, Gwynn MN.
 <br>
 Nat Commun. 2015 Dec 7;6:10048. doi: 10.1038/ncomms10048.
 <br><br>
