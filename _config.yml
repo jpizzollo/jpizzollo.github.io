@@ -1,10 +1,17 @@
+<head>
+<script src="https://kit.fontawesome.com/d6f58fb277.js" crossorigin="anonymous"></script>
+</head>
+
 title: Jason Pizzollo
 logo: "/images/photo.jpg?raw=true"
 description: >
   Data Scientist
   <br>
   Genomics Ph.D.
-  <br>
+  <br><br>
+  
+  <i class="fab fa-linkedin"></i>
+  
   <a href="https://www.linkedin.com/in/jasonpizzollo/">View My LinkedIn Profile</a>
   <br>
   <a href="https://github.com/jpizzollo/">View My GitHub Profile</a>
