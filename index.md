@@ -9,12 +9,32 @@ Used transcripts of podcast episodes, I performed natural language processing an
 
 ---
 
-### Academic Publications
+## Academic Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+[Comparative Serum Challenges Show Divergent Patterns of Gene Expression and Open Chromatin in Human and Chimpanzee.](https://academic.oup.com/gbe/article/10/3/826/4920862)
+<br>
+Pizzollo J, Nielsen WJ, Shibata Y, Safi A, Crawford GE, Wray GA, Babbitt CC.
+<br>
+Genome Biol Evol. 2018 Mar 1;10(3):826-839. doi: 10.1093/gbe/evy041.
+<br><br>
+[Structural basis of DNA gyrase inhibition by antibacterial QPT-1, anticancer drug etoposide and moxifloxacin.](https://www.nature.com/articles/ncomms10048)
+Chan PF, Srikannathasan V, Huang J, Cui H, Fosberry AP, Gu M, Hann MM, Hibbs M, Homes P, Ingraham K, Pizzollo J, Shen C, Shillings AJ, Spitzfaden CE, Tanner R, Theobald AJ, Stavenger <br>
+RA, Bax BD, Gwynn MN.
+<br>
+Nat Commun. 2015 Dec 7;6:10048. doi: 10.1038/ncomms10048.
+<br><br>
+[Nop2 is required for mammalian preimplantation development.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4903073/)
+<br>
+Cui W, Pizzollo J, Han Z, Marcho C, Zhang K, Mager J.
+<br>
+Mol Reprod Dev. 2016 Feb;83(2):124-31. doi: 10.1002/mrd.22600. Epub 2015 Dec 15.
+<br><br>
+[Frequency of Spontaneous Resistance to Peptide Deformylase Inhibitor GSK1322322 in Haemophilus influenzae, Staphylococcus aureus, Streptococcus pyogenes, and Streptococcus pneumoniae.](https://aac.asm.org/content/59/8/4644.long)
+<br>
+Min S, Ingraham K, Huang J, McCloskey L, Rilling S, Windau A, Pizzollo J, Butler D, Aubart K, Miller LA, Zalacain M, Holmes DJ, O'Dwyer K.
+<br>
+Antimicrob Agents Chemother. 2015 Aug;59(8):4644-52. doi: 10.1128/AAC.00484-15. Epub 2015 May 26.
 
 ---
