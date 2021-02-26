@@ -5,11 +5,11 @@ description: >
   <br>
   Genomics Ph.D.
   <br><br>
-  <a href="mailto:pizzollojason@gmail.com" target="_blank"><i class="fas fa-envelope-square" style="color:#000000"></i> E-Mail</a>
+  <a href="mailto:pizzollojason@gmail.com" target="_blank"><i class="fas fa-envelope-square fa-fw" style="color:#000000"></i> E-Mail</a>
   <br>
-  <a href="https://github.com/jpizzollo/" target="_blank"><i class="fab fa-github" style="color:#000000"></i> GitHub</a>
+  <a href="https://github.com/jpizzollo/" target="_blank"><i class="fab fa-github fa-fw" style="color:#000000"></i> GitHub</a>
   <br>
-  <a href="https://www.linkedin.com/in/jasonpizzollo/" target="_blank"><i class="fab fa-linkedin" style="color:#2867B2"></i> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/jasonpizzollo/" target="_blank"><i class="fab fa-linkedin fa-fw" style="color:#2867B2"></i> LinkedIn</a>
 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
