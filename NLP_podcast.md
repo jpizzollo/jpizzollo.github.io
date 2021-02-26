@@ -1,5 +1,6 @@
 ## Topic Modeling from Podcasts with NLP
 <br>
+<a href="https://github.com/jpizzollo/NLP_Podcast"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 
 ### Introduction  
 
