@@ -4,9 +4,7 @@
 
 ### [Using Heart Rate Variability to Track Stress and Sleep Quality](/HRV/HRV)
 <a href="https://github.com/jpizzollo/MMASH"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
-
 <img src="HRV/pexels-photo-4379289.jpeg?raw=true"/>
-
 Photo by <a href="https://www.pexels.com/@karolina-grabowska">Karolina Grabowska</a> on <a href="https://www.pexels.com">Pexels</a>
 
 Heart rate variability (HRV) informs about levels of stress and recovery and can be measured using devices such as a smartwatch or wristband heart rate monitor. Here, I used data from a research study that collected heart rate data and physical activity levels for study participants over the course of 24 hours to build a classification model that distinguishes between stressful and restful activities and a model that identifies disturbances during sleep.
