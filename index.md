@@ -2,10 +2,19 @@
 
 ---
 
+### [Using Heart Rate Variability to Track Stress and Sleep Quality](/HRV/HRV)
+<a href="https://github.com/jpizzollo/MMASH"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
+
+<img src="HRV/pexels-photo-4379289.jpeg?raw=true"/>
+
+Photo by <a href="https://www.pexels.com/@karolina-grabowska">Karolina Grabowska</a> on <a href="https://www.pexels.com">Pexels</a>
+
+Heart rate variability (HRV) informs about levels of stress and recovery and can be measured using devices such as a smartwatch or wristband heart rate monitor. Here, I used data from a research study that collected heart rate data and physical activity levels for study participants over the course of 24 hours to build a classification model that distinguishes between stressful and restful activities and a model that identifies disturbances during sleep. 
+
 ### [Topic Modeling from Podcasts with NLP](/NLP_Podcast/NLP_podcast)
 <a href="https://github.com/jpizzollo/NLP_Podcast"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
-<img src="images/NLP_podcast/NLP_podcast_main.png?raw=true"/>
-Used transcripts of podcast episodes, I performed natural language processing and latent dirichlet allocation modeling to identify common topics. By examining topic distribution at the level of entire episodes I was able to categorize episodes by type and identify trends over time related to particlar topics. Parsing text into 5-minute segments enabled characterization of show structure, identifying common themes between episodes and how topics combine during conversation.
+<img src="NLP_podcast/NLP_podcast_main.png?raw=true"/>
+Using transcripts of podcast episodes, I performed natural language processing and latent dirichlet allocation modeling to identify common topics. By examining topic distribution at the level of entire episodes I was able to categorize episodes by type and identify trends over time related to particular topics. Parsing text into 5-minute segments enabled characterization of show structure, identifying common themes between episodes and how topics combine during conversation.
 
 ---
 
