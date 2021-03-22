@@ -1,9 +1,8 @@
-## Using heart rate variability to identify stress and sleep quality
+## Using Heart Rate Variability to Track Stress and Sleep Quality
 <br>
 <a href="https://github.com/jpizzollo/MMASH"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub"></a>
 <br>
 <img src="pexels-photo-4379289.jpeg?raw=true"/>
-
 Photo by <a href="https://www.pexels.com/@karolina-grabowska">Karolina Grabowska</a> on <a href="https://www.pexels.com">Pexels</a>
 
 
